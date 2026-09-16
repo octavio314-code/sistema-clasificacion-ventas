@@ -1,0 +1,5 @@
+CE;790821451;Ana;Martinez
+CE;363184231;Juan;Lopez
+CE;747481144;Juan;Rodriguez
+CC;511170001;Carlos;Gomez
+CE;677861605;Carlos;Lopez

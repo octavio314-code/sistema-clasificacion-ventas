@@ -1,0 +1,10 @@
+PROD-1;Rele 1;138293,99
+PROD-2;Valvula 2;51573,70
+PROD-3;Sensor Inductivo 3;108269,16
+PROD-4;Compresor 4;109313,81
+PROD-5;Sensor Inductivo 5;71525,50
+PROD-6;Motor Trifasico 6;79970,64
+PROD-7;Valvula 7;99757,13
+PROD-8;Compresor 8;216863,85
+PROD-9;Sensor Inductivo 9;76735,78
+PROD-10;Compresor 10;209520,90
