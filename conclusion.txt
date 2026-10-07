@@ -1,0 +1,19 @@
+CONCLUSIONES DEL PROYECTO: SISTEMA DE CLASIFICACIÓN DE VENTAS
+Módulo: Conceptos Fundamentales de Programación
+
+
+1. APRENDIZAJES ADQUIRIDOS:
+- Implementación de arquitecturas de procesamiento batch en Java 8 sin dependencia de interfaces por consola.
+- Lectura, manipulación y consolidación eficiente de archivos planos de entrada y generación de reportes en formato CSV.
+- Utilización de estructuras de datos (Mapas y Listas) y ordenamiento con Comparators para el procesamiento masivo de datos.
+- Manejo de control de versiones con Git y repositorio remoto en GitHub.
+
+2. APLICACIONES EN EL ÁMBITO PROFESIONAL:
+- Automatización de reportes operativos, de mantenimiento y producción mediante el procesamiento masivo de logs y registros planos.
+- Desarrollo de scripts para auditoría y conciliación de inventarios, órdenes de trabajo y rendimiento operativo sin intervención manual.
+- Estructuración de lógica de procesamiento autónomo para integración entre sistemas legacy e interfaces modernas de datos.
+
+3. DIFICULTADES PRESENTADAS Y RESOLUCIÓN:
+- Normalización y parsing de datos no estandarizados, específicamente en la conversión de formatos numéricos por diferencias del sistema locale (delimitadores de coma vs. punto decimal).
+- Garantía de la estructura de paquetes dentro del IDE (Eclipse) y su correcta sincronización con el directorio remoto de GitHub.
+- Gestión estricta de rutas de archivos para asegurar la portabilidad del código en diferentes entornos de ejecución.
