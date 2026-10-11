@@ -1,19 +1,31 @@
 CONCLUSIONES DEL PROYECTO: SISTEMA DE CLASIFICACIÓN DE VENTAS
 Módulo: Conceptos Fundamentales de Programación
+Tutor:Edwin Andres Niño Velasquez
 
+1. APRENDIZAJES ADQUIRIDOS DURANTE EL DESARROLLO DEL PROYECTO:
 
-1. APRENDIZAJES ADQUIRIDOS:
+- Conceptos básicos, como el uso de variables, tipos de datos, condicionales y ciclos. 
+- En cuanto avanzábamos, fuimos comprendiendo mejor cómo funcionan los métodos, los arreglos y las listas, y cómo se pueden utilizar para almacenar y organizar la información de una forma más sencilla.
+- Esta experiencia nos permitió darnos cuenta de que programar no consiste únicamente en escribir líneas de código, sino que también en analizar los problemas, pensar en diferentes soluciones y aprender de los errores que se presentan durante el proceso.
+- Comprendimos lo importante que es mantener un código ordenado y fácil de modificar, de este modo se puede trabajar de una mejor manera y se reducen errores básicos.
+- Aprendimos sobre la programación orientada a objetos y cómo sus conceptos permiten organizar mejor un programa.
 - Implementación de arquitecturas de procesamiento batch en Java 8 sin dependencia de interfaces por consola.
 - Lectura, manipulación y consolidación eficiente de archivos planos de entrada y generación de reportes en formato CSV.
 - Utilización de estructuras de datos (Mapas y Listas) y ordenamiento con Comparators para el procesamiento masivo de datos.
 - Manejo de control de versiones con Git y repositorio remoto en GitHub.
+- En resumen, el desarrollo del proyecto nos ayudó a fortalecer nuestros conocimientos, poner en práctica lo aprendido y reconocer que, aunque la programación requiere tiempo y dedicación, cada dificultad es una oportunidad para esforzarnos más y así poder aprender y mejorar.
 
 2. APLICACIONES EN EL ÁMBITO PROFESIONAL:
+
+- Los conocimientos adquiridos durante el desarrollo del proyecto tienen una aplicación directa en nuestra vida profesional, ya que la lógica de programación no se limita a un solo lenguaje ni a un solo tipo de software. Aprender a dividir un problema grande en partes más pequeñas, a organizar la información en arreglos o listas y a escribir métodos que cumplan una tarea específica son habilidades que se pueden trasladar a cualquier herramienta o tecnología con la que nos toque trabajar más adelante.
+- Un ejemplo claro es el manejo de archivos planos. En muchas empresas la información de ventas, inventarios o nóminas se intercambia en archivos de texto o en formatos similares, y saber generarlos, leerlos y procesarlos nos permite automatizar tareas que normalmente se hacen de forma manual. De igual manera, la generación de reportes a partir de datos agrupados y ordenados es algo que se necesita en cualquier área, ya que facilita la toma de decisiones y ahorra bastante tiempo a quienes deben revisar esa información.
+- Por otro lado, hay destrezas que no son técnicas pero que resultan igual de valiosas. Documentar lo que hacemos, mantener el código ordenado y comentado, probar el programa antes de entregarlo y revisar los errores con calma son prácticas que nos preparan para trabajar en equipo y para que otras personas puedan entender y continuar nuestro trabajo. Incluso el uso de un repositorio compartido nos acerca a la forma en que realmente se desarrollan los proyectos en el ámbito laboral, donde varias personas aportan al mismo producto.
 - Automatización de reportes operativos, de mantenimiento y producción mediante el procesamiento masivo de logs y registros planos.
 - Desarrollo de scripts para auditoría y conciliación de inventarios, órdenes de trabajo y rendimiento operativo sin intervención manual.
 - Estructuración de lógica de procesamiento autónomo para integración entre sistemas legacy e interfaces modernas de datos.
+- Finalmente, consideramos que lo más útil de esta experiencia es la forma de pensar que se adquiere: analizar primero el problema, plantear una solución y luego construirla paso a paso. Esa manera de trabajar nos servirá en nuestra vida profesional aunque no nos dediquemos exclusivamente a programar, porque nos ayuda a enfrentar cualquier situación de forma más ordenada y a buscar soluciones prácticas ante las dificultades que se presenten.
 
 3. DIFICULTADES PRESENTADAS Y RESOLUCIÓN:
-- Normalización y parsing de datos no estandarizados, específicamente en la conversión de formatos numéricos por diferencias del sistema locale (delimitadores de coma vs. punto decimal).
+- Normalización y parsing de datos no estandarizados, específicamente en la conversión de formatos numéricos por diferencias del sistema locales (delimitadores de coma vs. punto decimal).
 - Garantía de la estructura de paquetes dentro del IDE (Eclipse) y su correcta sincronización con el directorio remoto de GitHub.
 - Gestión estricta de rutas de archivos para asegurar la portabilidad del código en diferentes entornos de ejecución.
